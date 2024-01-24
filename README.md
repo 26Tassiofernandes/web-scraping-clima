@@ -29,14 +29,29 @@ Antes de começar, certifique-se de ter o Python instalado em sua máquina. Alé
 
 ```
 pip install selenium
-
 ```
 
 ##
 
 ### ⚒️ Como rodar?
 
-O usuário deve clonar o repositório em questão e instalar as recomendações de extensões que sua IDE lhe propuser.
+1. Clone o repositório:
+   
+```
+git clone https://github.com/26Tassiofernandes/web-scraping-clima.git
+```
+
+2. Navegue até o diretório do projeto:
+
+```
+cd web-scraping-clima
+```
+
+3. Execute o script Python:
+
+```
+python webscraping.py
+```
 
 ##
 
