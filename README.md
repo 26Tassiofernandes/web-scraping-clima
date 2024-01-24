@@ -25,10 +25,10 @@ Este projeto envolve o desenvolvimento de um script de web scraping utilizando a
 
 ### ⚙ Requisitos
 
-Antes de começar, certifique-se de ter o Python instalado em sua máquina. Além disso, o projeto utiliza a biblioteca Selenium. Para instalá-la, execute o seguinte comando:
+Antes de começar, certifique-se de ter o Python e o navegador Chrome instalados em sua máquina. Além disso, o projeto utiliza a biblioteca Selenium. Para instalá-la, execute o seguinte comando:
 
 ```
-pip install selenium
+pip install --upgrade selenium
 ```
 
 ##
