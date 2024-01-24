@@ -40,13 +40,13 @@ pip install selenium
 ```
 git clone https://github.com/26Tassiofernandes/web-scraping-clima.git
 ```
-<br>
+
 2. Navegue até o diretório do projeto:
 
 ```
 cd web-scraping-clima
 ```
-<br>
+
 3. Execute o script Python:
 
 ```
